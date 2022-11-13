@@ -54,5 +54,17 @@ Caso não tenha o app Playgroud Starter
 6. Clique em Vincular conta.
 7. Localize a oferta do AppExchange que você está procurando (o componente Dashboard Pal do Salesforce Labs, por exemplo).
 8. Clique em Obter agora.
+
 ![Instalar Pacote](appexchange.png)
+
+9. Na lista suspensa Contas conectadas do Salesforce, selecione seu nome de usuário do Trailhead Playground e clique em Instalar na produção.
+10. Verifique o nome de usuário na tela de confirmação de instalação para confirmar que você está instalando o pacote em seu Trailhead Playground e marque a caixa para concordar com nossos termos e condições.
+11. Clique em Confirmar e instalar.
+12. Faça login com seu nome de usuário e senha do Trailhead Playground.
+13. Selecione Instalar apenas para administradores, e clique em Instalar.
+14. Se você vir um pop-up que pede a aprovação do acesso de terceiros, selecione Sim, conceder acesso a esses sites de terceiros e clique em Continuar.
+15. Quando a instalação for concluída, clique em Concluído.
+
+
+
 
