@@ -16,4 +16,9 @@ usuário em cima da foto, depois organizações práticas.
 
 ![Criar Playgroud/organização Prática](criar_playground.png)
 
+## Obter seu nome de usuário e redefinir a sua senha
+
+Primeiro, inicie seu Trailhead Playground clicando em Iniciar.
+
+![Obter Senha](obter_senha.png)
 
