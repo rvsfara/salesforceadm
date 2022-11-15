@@ -1,7 +1,11 @@
 # Curso do Administrador Salesforce
 
 Para realizar este curso é necessário fazer uma conta gratuita no site
-Trailhead da Salesforce
+Trailhead da Salesforce:
+
+[Trailhead](https://trailhead.salesforce.com/pt-BR)
+
+para acesso rápido seguir os hiperlinks deste arquivo markdown
 
 ## [Introdução, Organização/Playgroud, Instalar App [Neste mesmo curso]](intro/README.MD)
 
