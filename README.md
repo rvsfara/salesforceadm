@@ -13,7 +13,7 @@ para acesso rápido seguir os hiperlinks deste arquivo markdown
 
 ## [Configurações [Neste mesmo curso]](configuracao/README.MD)
 
-## [Gerenciar Usuários [Neste mesmo curso]](configuracao/usuario/README.MD)
+## [Gerenciar Usuários [Neste mesmo curso]](usuarios/README.MD)
 
 ## Criar Objetos Personalizados
 
